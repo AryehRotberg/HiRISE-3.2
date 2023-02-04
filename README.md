@@ -1,6 +1,8 @@
 # HiRISE-3.2
 
-A personal project to replicate the results of the "Deep Mars" paper by Wagstaff et al. In this project I will be using a pretrained model ResNet50V2 to classify mars landmarks orbital images. The model produces a result of 92% accuracy in the test set.
+In this project I will be using a pretrained model ResNet50V2 to classify mars landmarks orbital images to replicate the results of the "Deep Mars" paper by Wagstaff et al.
+
+A personal project to replicate the results of the "Deep Mars" paper by Wagstaff et al.
 
 #### Contents:
 - map-proj/: Directory containing individual cropped landmark images
