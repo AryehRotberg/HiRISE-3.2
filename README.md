@@ -2,8 +2,6 @@
 
 In this project I will be using a pretrained model ResNet50V2 to classify mars landmarks orbital images to replicate the results of the "Deep Mars" paper by Wagstaff et al.
 
-A personal project to replicate the results of the "Deep Mars" paper by Wagstaff et al.
-
 #### Contents:
 - map-proj/: Directory containing individual cropped landmark images
 - labels-map-proj.txt: Class labels (ids) for each landmark image
