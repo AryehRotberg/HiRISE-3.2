@@ -15,7 +15,7 @@ In this project I will be using a pretrained model ResNet50V2 to classify mars l
         - **landmarks_map-proj-v3_2_classmap.csv**: Dictionary that maps class ids to semantic names
 - Models/ResNet50V2/: Directory containing saved ResNet model used in the project
 - HiRISE Jupyter.ipynb - Jupyter notebook containing model training
-- HiRISE Presentation.pdf - Presentation containing insights from the project
+- HiRISE Presentation.pdf - Presentation containing insights and project explanation
 
 ## Author
 
