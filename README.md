@@ -10,9 +10,9 @@ In this project I will be using a pretrained model ResNet50V2 to classify mars l
 - classifier_model.py: The tensorflow model and data cleaning
 
 - Data/: Directory containing all the landmark images
-        - labels-map-proj_v3_2.txt: Directory containing individual cropped landmark images
-        - labels-map-proj-v3_2.txt: Class labels (ids) for each landmark image. File includes two columns separated by a space: filename, class_id
-        - landmarks_map-proj-v3_2_classmap.csv: Dictionary that maps class ids to semantic names
+        - **labels-map-proj_v3_2.txt**: Directory containing individual cropped landmark images
+        - **labels-map-proj-v3_2.txt**: Class labels (ids) for each landmark image. File includes two columns separated by a space: filename, class_id
+        - **landmarks_map-proj-v3_2_classmap.csv**: Dictionary that maps class ids to semantic names
 - Models/ResNet50V2/: Directory containing saved ResNet model used in the project
 - HiRISE Jupyter.ipynb - Jupyter notebook containing model training
 - HiRISE Presentation.pdf - Presentation containing insights from the project
