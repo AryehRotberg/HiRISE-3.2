@@ -7,7 +7,7 @@ In this project I will be using a pretrained model ResNet50V2 to classify mars l
 - labels-map-proj.txt: Class labels (ids) for each landmark image
 - label_data.py: Python dictionary that maps class ids to semantic names
 - deps.txt: Dependencies of this project (that can be pip installled)
-- classifier_model.py: The tensorflow model and data cleaning
+- classifier_model.py: Tensorflow model and data cleaning
 
 - Data/: Directory containing all the landmark images
         - **labels-map-proj_v3_2.txt**: Directory containing individual cropped landmark images
