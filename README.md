@@ -3,12 +3,10 @@
 In this project I will be using a pretrained model ResNet50V2 to classify mars landmarks orbital images to replicate the results of the "Deep Mars" paper by Wagstaff et al.
 
 #### Contents:
-- map-proj/: Directory containing individual cropped landmark images
-- labels-map-proj.txt: Class labels (ids) for each landmark image
-- label_data.py: Python dictionary that maps class ids to semantic names
-- deps.txt: Dependencies of this project (that can be pip installled)
-- classifier_model.py: Tensorflow model and data cleaning
-
+- map-proj-v3_2/: Directory containing individual cropped landmark images
+- labels-map-proj_v3_2.txt: Class labels (ids) for each landmark image
+- labels-map-proj_v3_2_train_val_test.txt
+- labels-map-proj_v3_2_classmap.csv
 - Data/: Directory containing all the landmark images
         - **labels-map-proj_v3_2.txt**: Directory containing individual cropped landmark images
         - **labels-map-proj-v3_2.txt**: Class labels (ids) for each landmark image. File includes two columns separated by a space: filename, class_id
